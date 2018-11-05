@@ -6,8 +6,7 @@ Opera en la **capa de acceso medio** del modelo **TCP/IP** de manera que este re
 
 Los *hubs* suelen usar varios **puertos ethernet** (*RJ45*) y suelen ser más **económicos** que un *switch*
 
-![Hub](hub.jpg)
-![Hub2](hub2.jpg)
+![Hub](hub.jpg) ![Hub2](hub2.jpg)
 
 
 ## 3 datos a mayores:
