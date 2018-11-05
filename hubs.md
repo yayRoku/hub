@@ -1,7 +1,7 @@
 # El hub
 
 ## 1. Acerca del hub:
-El **hub** (también llamado *concentrador*) es un dispositivo que permite **centralizar la conexión de una red** de varios equipos en físico. 
+El **hub** (también llamado *concentrador*) es un dispositivo que permite **centralizar la conexión de una red** de varios equipos en físico, creando una **red LAN** (*Local Area Network*).
   
 
 ## 2. Robert Metcalfe:
