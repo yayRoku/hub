@@ -11,8 +11,8 @@ Fue inventado por el ingeniero **Robert Metcalfe** en el año **1980**, con una 
 Opera en la **capa de acceso medio** del modelo **TCP/IP** (la equivalente a la capa física del modelo *OSI*)  de manera que este recibe una señal y la repite por sus puertos ethernet (*RJ45*) sin dirigir el tráfico a ninguno en concreto, al contrario que un *switch*, pero los hubs suelen ser **más baratos** que estos.
 
 
-# Ejemplos de hubs
-![Hub](hub.jpg) ![Hub2](hub2.jpg)
+# Ejemplo de hub y switch
+![Hub](hub.jpg) ![Switch](switch.jpg)
 
   
 
